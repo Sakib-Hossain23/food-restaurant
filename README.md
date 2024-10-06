@@ -1,6 +1,6 @@
 # Fresh Fare (Food Restaurant)
 
-This project is a Food Restaurant Website built using HTML, CSS, JavaScript, SCSS, and Bootstrap. The website allows users to view the restaurant's menu, price of food, order food. It's designed to be responsive and user-friendly.
+This is a Food Restaurant Website built using HTML, CSS, JavaScript, SCSS, and Bootstrap. The website allows users to view the restaurant's menu, price of food, order food. It's designed to be responsive and user-friendly.
 
 # Features
 
@@ -20,4 +20,4 @@ This project is a Food Restaurant Website built using HTML, CSS, JavaScript, SCS
 
 
 # Live Demo
-Go to link [Food Restaurant](https://sakib-hossain23.github.io/Food-Restaurant/)
+Go to link [Food Restaurant](https://sakib-hossain23.github.io/Fresh-Fare/)
