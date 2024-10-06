@@ -1,4 +1,4 @@
-# Food Restaurant
+# Fresh Fare (Food Restaurant)
 
 This project is a Food Restaurant Website built using HTML, CSS, JavaScript, SCSS, and Bootstrap. The website allows users to view the restaurant's menu, price of food, order food. It's designed to be responsive and user-friendly.
 
